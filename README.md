@@ -17,13 +17,19 @@ in this project , i will create some of samples about javascript algorithms and 
 <br>
 <h1>Javascript Deeper</h1>
 <ul>
+  <li><a href="https://github.com/moumen-soliman/Javascript/blob/master/JS-Deeper/hoisting.js">Hoisting</a></li>
+  <li><a href="https://github.com/moumen-soliman/Javascript/blob/master/JS-Deeper/scoping.js">Scoping</a></li>
+  <li><a href="https://github.com/moumen-soliman/Javascript/blob/master/JS-Deeper/this.js">this keyword</a></li>
   <li><a href="https://github.com/moumen-soliman/Javascript/blob/master/JS-Deeper/function-constructor.js">Function constructor</a></li>
-  <li><a href="https://github.com/moumen-soliman/Javascript/blob/master/JS-Deeper/object.create.js"></a>Object.create</li>
-  <li><a href="https://github.com/moumen-soliman/Javascript/blob/master/JS-Deeper/different-between-primitives-objects-functions.js"></a>Different between Primitives, Objects and Functions </li>
+  <li><a href="https://github.com/moumen-soliman/Javascript/blob/master/JS-Deeper/object.create.js">Object.create</a></li>
+  <li><a href="https://github.com/moumen-soliman/Javascript/blob/master/JS-Deeper/different-between-primitives-objects-functions.js">Different between Primitives, Objects and Functions</a> </li>
   <li><a href="https://github.com/moumen-soliman/Javascript/blob/master/JS-Deeper/passing-functions-as-arguments.js">Passing functions as arguments</a></li>
   <li><a href="https://github.com/moumen-soliman/Javascript/blob/master/JS-Deeper/functions-return-functions.js">Functions returning functions</a></li>
   <li><a href="https://github.com/moumen-soliman/Javascript/blob/master/JS-Deeper/IIFE-immediately-invoked-function-expression.js">IIFE (Immediately Invoked Function Expression)</a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
-  <li><a href=""></a></li>
+  <li><a href="https://github.com/moumen-soliman/Javascript/blob/master/JS-Deeper/closures.js">Closures</a></li>
+  <li><a href="https://github.com/moumen-soliman/Javascript/blob/master/JS-Deeper/bind-call-apply.js">Bind, call and apply</a></li>
 </ul>
+<br>
+<h1><a href="https://github.com/moumen-soliman/Javascript/tree/master/DOM%20Manipulation%20in%20pig%20game">DOM Manipulation in pig game</a></h1>
+<br>
+<h1><a href="https://github.com/moumen-soliman/Javascript/tree/master/Budget%20App">Budget App</a></h1>
