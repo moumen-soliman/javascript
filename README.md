@@ -30,6 +30,18 @@ in this project , i will create some of samples about javascript algorithms and 
   <li><a href="https://github.com/moumen-soliman/Javascript/blob/master/JS-Deeper/bind-call-apply.js">Bind, call and apply</a></li>
 </ul>
 <br>
-<h1><a href="https://github.com/moumen-soliman/Javascript/tree/master/DOM%20Manipulation%20in%20pig%20game">DOM Manipulation in pig game</a></h1>
-<br>
 <h1><a href="https://github.com/moumen-soliman/Javascript/tree/master/Budget%20App">Budget App</a></h1>
+Controllers in Javascript and how handle the anonymous functions and function constructor and contain 
+
+<ul>
+<li>Create HTML String with placeholder text</li>
+<li>Replace the placeholder text with some actual data</li>
+<li>Insert the HTML into the DOM</li>
+<li>DOM Mainpulation and how it work</li>
+<li>Get Field input data</li>
+<li>add the item to the budget controller</li>
+<li>add the item to the UI</li>
+<li>Calculate the budget</li>
+<li>Display the budget on the UI</li>
+</ul>
+
