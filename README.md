@@ -45,6 +45,7 @@
   <li><a href="https://github.com/moumen-soliman/Javascript/blob/master/ES6/rest-parameters.js">Rest Parameters</a></li>
   <li><a href="https://github.com/moumen-soliman/Javascript/blob/master/ES6/default-parameters.js">Default Parameters </a></li>
   <li><a href="https://github.com/moumen-soliman/Javascript/blob/master/ES6/maps.js">Maps</a></li>
+  <li><a href="https://github.com/moumen-soliman/Javascript/blob/master/ES6/proxies.js">Proxies</a></li>
 </ul>
 <br>
 <h1><a href="https://github.com/moumen-soliman/Javascript/tree/master/Budget%20App">Budget App</a></h1>
