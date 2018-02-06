@@ -38,7 +38,7 @@ const budgetController = ((() => {
     };
 
 
-    var data = {
+    data = {
         allItems: {
             exp: [],
             inc: []
@@ -187,7 +187,7 @@ const UIController = ((() => {
         let numSplit;
         let int;
         let dec;
-        var type;
+        type;
         /*
             + or - before number
             exactly 2 decimal points
@@ -320,7 +320,7 @@ const UIController = ((() => {
             let year;
 
             now = new Date();
-            //var christmas = new Date(2016, 11, 25);
+            //christmas = new Date(2016, 11, 25);
 
             months = ['January', 'February', 'March', 'April', 'May', 'June', 'July', 'August', 'September', 'October', 'November', 'December'];
             month = now.getMonth();
@@ -400,7 +400,7 @@ const controller = (((budgetCtrl, UICtrl) => {
     };
     
     
-    var ctrlAddItem = () => {
+    ctrlAddItem = () => {
         let input;
         let newItem;
 
@@ -426,7 +426,7 @@ const controller = (((budgetCtrl, UICtrl) => {
     };
     
     
-    var ctrlDeleteItem = ({target}) => {
+    ctrlDeleteItem = ({target}) => {
         let itemID;
         let splitID;
         let type;
