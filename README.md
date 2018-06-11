@@ -49,6 +49,13 @@
   <li><a href="https://github.com/moumen-soliman/Javascript/blob/master/ES6/promises.js">Promises</a></li>
 </ul>
 <br>
+<h1>Javascript Design Patterns</h1>
+<ul>
+  <li><a href="https://github.com/moumen-soliman/Javascript/tree/master/Design%20Patterns/creational">Creational</a></li>
+  <li><a href="https://github.com/moumen-soliman/Javascript/tree/master/Design%20Patterns/structural">Structural</a></li>
+  <li><a href="https://github.com/moumen-soliman/Javascript/tree/master/Design%20Patterns/behavioral">Behavioral</a></li>
+</ul>
+<br>
 <h1><a href="https://github.com/moumen-soliman/Javascript/tree/master/Budget%20App">Budget App</a></h1>
 Controllers in Javascript and how handle the anonymous functions and function constructor and contain 
 
