@@ -51,7 +51,16 @@
 <br>
 <h1>Javascript Design Patterns</h1>
 <ul>
-  <li><a href="https://github.com/moumen-soliman/Javascript/tree/master/Design%20Patterns/creational">Creational</a></li>
+  <li><a href="https://github.com/moumen-soliman/Javascript/tree/master/Design%20Patterns/creational">Creational</a>
+    <ul>
+        <li><a href="https://github.com/moumen-soliman/Javascript/tree/master/Design%20Patterns/creational/constructor">Constructor</a></li>
+        <li><a href="https://github.com/moumen-soliman/Javascript/tree/master/Design%20Patterns/creational/factory">Factory</a>
+            <ul>
+                <li>Abstract Factory</li>
+            </ul>
+        </li>
+    </ul>
+  </li>
   <li><a href="https://github.com/moumen-soliman/Javascript/tree/master/Design%20Patterns/structural">Structural</a></li>
   <li><a href="https://github.com/moumen-soliman/Javascript/tree/master/Design%20Patterns/behavioral">Behavioral</a></li>
 </ul>
