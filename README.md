@@ -59,6 +59,7 @@
                 <li>Abstract Factory</li>
             </ul>
         </li>
+        <li><a href="https://github.com/moumen-soliman/Javascript/tree/master/Design%20Patterns/creational/singleton">Singleton</a></li>
     </ul>
   </li>
   <li><a href="https://github.com/moumen-soliman/Javascript/tree/master/Design%20Patterns/structural">Structural</a></li>

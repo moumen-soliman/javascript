@@ -10,8 +10,8 @@
                 <li>Abstract Factory</li>
             </ul>
         </li>
+        <li><a href="https://github.com/moumen-soliman/Javascript/tree/master/Design%20Patterns/creational/singleton">Singleton</a></li>
         <li>Prototype</li>
-        <li>Singleton</li>
         <li>Builder</li>
     </ul>
     <h3><a href="https://github.com/moumen-soliman/Javascript/tree/master/Design%20Patterns/behavioral">Behavioral</a></h3>
