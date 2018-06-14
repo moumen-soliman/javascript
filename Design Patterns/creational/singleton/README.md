@@ -38,6 +38,13 @@ export default Person;
 ```
  In JavaScript, Singletons serve as a shared resource namespace which isolate implementation code from the global namespace so as to provide a single point of access for functions.
 
+### Singleton Class vs. Static Methods
+Singleton takes over static classes on the following shortcomings:
+
+1. `Static` classes don’t promote inheritance. If your class has some interface to derive from, `static` classes makes it impossible.
+2. You cannot specify any creation logic with `static` methods.
+3. `Static` methods are procedural code.
+
 ### When to Use a Singleton Class?
 There is no straightforward answer to this question. A scenario which is acceptable to some will be unacceptable to others.
 
