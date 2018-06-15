@@ -63,7 +63,11 @@
         <li><a href="https://github.com/moumen-soliman/Javascript/tree/master/Design%20Patterns/creational/builder">Builder</a></li>
     </ul>
   </li>
-  <li><a href="https://github.com/moumen-soliman/Javascript/tree/master/Design%20Patterns/structural">Structural</a></li>
+  <li><a href="https://github.com/moumen-soliman/Javascript/tree/master/Design%20Patterns/structural">Structural</a>
+    <ul>
+        <li><a href="https://github.com/moumen-soliman/Javascript/tree/master/Design%20Patterns/behavioral/observer">Observer</a></li>
+    </ul>
+  </li>
   <li><a href="https://github.com/moumen-soliman/Javascript/tree/master/Design%20Patterns/behavioral">Behavioral</a></li>
 </ul>
 <br>
