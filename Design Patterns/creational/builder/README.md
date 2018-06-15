@@ -18,38 +18,38 @@
  Another example:
 
  ```javascript
-function Request() {
-    this.url = '';
-    this.method = '';
-    this.payload = {};
-}
+    function Request() {
+        this.url = '';
+        this.method = '';
+        this.payload = {};
+    }
 
-function RequestBuilder() {
+    function RequestBuilder() {
 
-    this.request = new Request();
+        this.request = new Request();
 
-    this.forUrl = function(url) {
-        this.request.url = url;
-        return this;
-    };
+        this.forUrl = function(url) {
+            this.request.url = url;
+            return this;
+        };
 
-    this.useMethod = function(method) {
-        this.request.method = method;
-        return this;
-    };
+        this.useMethod = function(method) {
+            this.request.method = method;
+            return this;
+        };
 
-    this.payload = function(payload) {
-        this.request.payload = payload;
-        return this;
-    };
+        this.payload = function(payload) {
+            this.request.payload = payload;
+            return this;
+        };
 
-    this.build = function() {
-        return this.request;
-    };
+        this.build = function() {
+            return this.request;
+        };
 
-}
+    }
 
-module.exports = RequestBuilder;
+    module.exports = RequestBuilder;
  ```
 
  So we can use our Class or Function as a store ready to plugged-in in any part we need and use it API's or DOM etc...
