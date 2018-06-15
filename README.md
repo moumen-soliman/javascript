@@ -60,6 +60,7 @@
             </ul>
         </li>
         <li><a href="https://github.com/moumen-soliman/Javascript/tree/master/Design%20Patterns/creational/singleton">Singleton</a></li>
+        <li><a href="https://github.com/moumen-soliman/Javascript/tree/master/Design%20Patterns/creational/builder">Builder</a></li>
     </ul>
   </li>
   <li><a href="https://github.com/moumen-soliman/Javascript/tree/master/Design%20Patterns/structural">Structural</a></li>
