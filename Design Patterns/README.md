@@ -12,7 +12,6 @@
         </li>
         <li><a href="https://github.com/moumen-soliman/Javascript/tree/master/Design%20Patterns/creational/singleton">Singleton</a></li>
         <li><a href="https://github.com/moumen-soliman/Javascript/tree/master/Design%20Patterns/creational/builder">Builder</a></li>
-        <li>Prototype</li>
     </ul>
     <h3><a href="https://github.com/moumen-soliman/Javascript/tree/master/Design%20Patterns/behavioral">Behavioral</a></h3>
     <ul>
