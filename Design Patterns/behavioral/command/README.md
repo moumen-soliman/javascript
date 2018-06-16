@@ -19,6 +19,29 @@ class Bulb {
     }
 }
 ```
+> 📜 From Mastering JavaScript Design Patterns by Simon Timms Book
+>
+> ### The invoker
+> The invoker is the part of the command pattern that instructs the command to execute its instructions. The invoker can really be anything; a timed event, a user interaction, or just the next step in the process may all trigger invocation. When we executed simpleCommand earlier, we were playing at being the invoker. In the more rigorous command, the invoker might look 
+>
+>something like:
+>`command.Execute()`
+>
+>### The receiver
+>The final component in the command pattern is the receiver. This is the target of the command execution. In our example, we created a receiver called
+>LordInstructions: 
+```javascript
+var LordInstructions = (function () {
+ function LordInstructions() {
+ }
+    LordInstructions.prototype.BringTroops = function (location,
+    numberOfTroops, when) {
+        console.log("You have been instructed to bring " + numberOfTroops + " troops to " + location + " by " + when);
+    };
+    return LordInstructions;
+})();
+```
+>The receiver knows how to perform the action that the command has deferred. There need not be anything special about the receiver; in fact it may be any class.
 
 ### Overall
 The command pattern is a very useful one to defer the execution of some piece
