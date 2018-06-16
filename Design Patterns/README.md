@@ -17,8 +17,8 @@
     <ul>
         <li><a href="https://github.com/moumen-soliman/Javascript/tree/master/Design%20Patterns/behavioral/observer">Observer</a></li>
         <li><a href="https://github.com/moumen-soliman/Javascript/tree/master/Design%20Patterns/behavioral/iterator">Iterator</a></li>
+        <li><a href="https://github.com/moumen-soliman/Javascript/tree/master/Design%20Patterns/behavioral/mediator">Mediator</a></li>
         <li>Visitor</li>
-        <li>Mediator</li>
     </ul>
     <h3><a href="https://github.com/moumen-soliman/Javascript/tree/master/Design%20Patterns/structural">Structural</a></h3>
     <ul>
