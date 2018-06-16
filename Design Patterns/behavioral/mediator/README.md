@@ -29,7 +29,7 @@ Airplane.prototype.requestPositions = function() {
 
 module.exports = [TrafficTower, Airplane];
 ```
-###Mediator Example
+### Mediator Example
 
 A Mediator is an object that coordinates interactions (logic and behavior) between multiple objects. It makes decisions on when to call which objects, based on the actions (or inaction) of other objects and input.
 
