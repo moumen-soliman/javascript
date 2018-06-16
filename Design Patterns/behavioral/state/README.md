@@ -28,6 +28,7 @@ function (action, amount) {
         this.state = "overdrawn";
     }
 };
+// example from Mastering JavaScript Design Patterns by Simon Timms
  ```
  This is just a sample of what could be a much more complicated workflow. if statements of this length are painful to debug and highly error prone. Simply flipping a greater than sign is enough to drastically change how the if statement works.
 
@@ -56,6 +57,7 @@ var BankAccountManager = (function () {
     };
     return BankAccountManager;
 })();
+// example from Mastering JavaScript Design Patterns by Simon Timms
 ```
 The bank account manager class provides a state for the current balance and also the
 current state. To protect the balance, it provides an accessor to read the balance and
