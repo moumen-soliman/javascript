@@ -65,6 +65,7 @@
   </li>
   <li><a href="https://github.com/moumen-soliman/Javascript/tree/master/Design%20Patterns/behavioral">Behavioral</a>
     <ul>
+        <li><a href="https://github.com/moumen-soliman/Javascript/tree/master/Design%20Patterns/behavioral/command">Command</a></li>
         <li><a href="https://github.com/moumen-soliman/Javascript/tree/master/Design%20Patterns/behavioral/observer">Observer</a></li>
         <li><a href="https://github.com/moumen-soliman/Javascript/tree/master/Design%20Patterns/behavioral/iterator">Iterator</a></li>
         <li><a href="https://github.com/moumen-soliman/Javascript/tree/master/Design%20Patterns/behavioral/mediator">Mediator</a></li>
