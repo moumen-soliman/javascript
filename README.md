@@ -63,12 +63,14 @@
         <li><a href="https://github.com/moumen-soliman/Javascript/tree/master/Design%20Patterns/creational/builder">Builder</a></li>
     </ul>
   </li>
-  <li><a href="https://github.com/moumen-soliman/Javascript/tree/master/Design%20Patterns/structural">Structural</a>
+  <li><a href="https://github.com/moumen-soliman/Javascript/tree/master/Design%20Patterns/behavioral">Behavioral</a>
     <ul>
         <li><a href="https://github.com/moumen-soliman/Javascript/tree/master/Design%20Patterns/behavioral/observer">Observer</a></li>
+        <li><a href="https://github.com/moumen-soliman/Javascript/tree/master/Design%20Patterns/behavioral/iterator">Iterator</a></li>
     </ul>
   </li>
-  <li><a href="https://github.com/moumen-soliman/Javascript/tree/master/Design%20Patterns/behavioral">Behavioral</a></li>
+  <li><a href="https://github.com/moumen-soliman/Javascript/tree/master/Design%20Patterns/structural">Structural</a>
+  </li>
 </ul>
 <br>
 <h1><a href="https://github.com/moumen-soliman/Javascript/tree/master/Budget%20App">Budget App</a></h1>
