@@ -1,4 +1,4 @@
-# Adapter Design Patterns
+# Adapter Pattern
  Adapter Pattern allows classes with incompatible interfaces to work together by wrapping its own interface around that of an already existing class
 
  > 📜 From Wikipedia
