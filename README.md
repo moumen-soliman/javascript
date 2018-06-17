@@ -76,6 +76,7 @@
     <ul>
         <li><a href="https://github.com/moumen-soliman/Javascript/tree/master/Design%20Patterns/structural/adapter">Adapter</a></li>
         <li><a href="https://github.com/moumen-soliman/Javascript/tree/master/Design%20Patterns/structural/facade">Facade</a></li>
+        <li><a href="https://github.com/moumen-soliman/Javascript/tree/master/Design%20Patterns/structural/decorator">Decorator</a></li>
     </ul>
   </li>
 </ul>
