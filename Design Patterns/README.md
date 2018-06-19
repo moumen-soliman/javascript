@@ -20,7 +20,6 @@
         <li><a href="https://github.com/moumen-soliman/Javascript/tree/master/Design%20Patterns/behavioral/iterator">Iterator</a></li>
         <li><a href="https://github.com/moumen-soliman/Javascript/tree/master/Design%20Patterns/behavioral/mediator">Mediator</a></li>
         <li><a href="https://github.com/moumen-soliman/Javascript/tree/master/Design%20Patterns/behavioral/state">State</a></li>
-        <li>Visitor</li>
     </ul>
     <h3><a href="https://github.com/moumen-soliman/Javascript/tree/master/Design%20Patterns/structural">Structural</a></h3>
     <ul>
@@ -28,5 +27,4 @@
         <li><a href="https://github.com/moumen-soliman/Javascript/tree/master/Design%20Patterns/structural/facade">Facade</a></li>
         <li><a href="https://github.com/moumen-soliman/Javascript/tree/master/Design%20Patterns/structural/decorator">Decorator</a></li>
         <li><a href="https://github.com/moumen-soliman/Javascript/tree/master/Design%20Patterns/structural/flyweight">Flyweight</a></li>
-        <li>Proxy</li>
     </ul>
